@@ -1,0 +1,19 @@
+Git & GitHub Test - Answers
+
+Q1. Which command initializes a new Git repository in a project folder?
+Answer: A - git init
+
+Q2. Which command stages all changed files before creating a commit?
+Answer: B - git add .
+
+Q3. A GitHub remote repository can be connected to a local Git repository using git remote add origin.
+Answer: True
+
+Q4. Which are benefits of using Git?
+Answers:
+A - Track changes
+B - Create branches
+C - Restore previous versions
+
+Q5. Which command pushes the local main branch to the GitHub remote named origin for the first time while setting the upstream branch?
+Answer: A - git push -u origin main
